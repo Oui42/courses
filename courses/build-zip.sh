@@ -1,0 +1,1 @@
+[script that zips the courses folder]

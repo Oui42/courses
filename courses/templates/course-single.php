@@ -1,0 +1,1 @@
+[full template content as provided earlier]

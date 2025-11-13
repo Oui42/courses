@@ -1,0 +1,1 @@
+[the simplified exam.php content without PDF as provided earlier]

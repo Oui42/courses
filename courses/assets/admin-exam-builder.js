@@ -1,0 +1,1 @@
+[full JS content as provided earlier]

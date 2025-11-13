@@ -1,0 +1,1 @@
+[uninstall content removing tables and caps]

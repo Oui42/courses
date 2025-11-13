@@ -1,0 +1,1 @@
+[full content matching earlier shortcodes.php]

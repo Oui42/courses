@@ -1,0 +1,1 @@
+[the simplified certificates.php content without PDF as provided earlier]

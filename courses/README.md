@@ -1,0 +1,1 @@
+[README content simplified (no composer instructions) as provided earlier]
